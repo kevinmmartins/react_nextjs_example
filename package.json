@@ -1,0 +1,25 @@
+{
+  "name": "react_nextjs_example",
+  "version": "1.0.0",
+  "description": "Basic server-rendered React App with NextJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinmmartins/react_nextjs_example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinmmartins/react_nextjs_example/issues"
+  },
+  "homepage": "https://github.com/kevinmmartins/react_nextjs_example#readme",
+  "dependencies": {
+    "next": "^8.0.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
