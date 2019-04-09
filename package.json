@@ -4,7 +4,8 @@
   "description": "Basic server-rendered React App with NextJS",
   "main": "index.js",
   "scripts": {
-    "start": "next"
+    "start": "next",
+    "build": "react-scripts build"
   },
   "repository": {
     "type": "git",
