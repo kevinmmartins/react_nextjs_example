@@ -19,3 +19,10 @@ docker-compose build
 ```
 docker-compose up
 ```
+
+## Pages
+
+|Route|Description|
+|---|---|
+|/|Index|
+|/basePage|With Fetch|
