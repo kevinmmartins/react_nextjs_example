@@ -26,3 +26,4 @@ docker-compose up
 |---|---|
 |/|Index|
 |/basePage|With Fetch|
+|/classPage|With Class and Initial Props|
