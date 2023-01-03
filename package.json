@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/kevinmmartins/react_nextjs_example#readme",
   "dependencies": {
-    "isomorphic-unfetch": "^3.1.0",
+    "isomorphic-unfetch": "^4.0.2",
     "next": "^13.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
