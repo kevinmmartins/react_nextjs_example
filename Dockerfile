@@ -1,4 +1,4 @@
-FROM node:19.3.0
+FROM node:19.5.0
 
 RUN mkdir /usr/src/app
 WORKDIR /usr/src/app
